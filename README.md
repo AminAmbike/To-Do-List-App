@@ -14,11 +14,12 @@ Various bug fixes mostly related to Mongoose functionality
 - MongoDB (Mongoose)
 
 # Instructions
-1. CD into directory containing files using the command terminal
-2. run "npm i"
-3. run "npm init"
-4. run "node app.js"
-5. In your browser go to "localhost:3000/"
+1. Download files and group them together in shared folder
+2. CD into directory containing files using the command terminal
+3. run "npm i"
+4. run "npm init"
+5. run "node app.js"
+6. In your browser go to "localhost:3000/"
 
 # Screenshot
 ![Screenshot (47)](https://user-images.githubusercontent.com/113309178/234770114-1057aea1-51cb-459a-b30d-fb64cf5728f8.png)
